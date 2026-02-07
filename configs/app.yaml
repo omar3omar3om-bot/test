@@ -1,0 +1,7 @@
+api_key: "YOUR_GEMINI_API_KEY"
+model:
+  name: "gemini-1.5-pro"
+  region: "us-central1"
+timeouts:
+  request_seconds: 60
+  upload_seconds: 120
